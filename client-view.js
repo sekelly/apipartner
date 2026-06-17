@@ -9,11 +9,11 @@ ZoomMtg.i18n.reload('en-US')
 // setup your signature endpoint here: https://github.com/zoom/meetingsdk-sample-signature-node.js
 var signatureEndpoint = 'https://meetingsdk-sample-signature-node-js-iota.vercel.app/'
 var sdkKey = 'PfPapLCavJc2ZBjMkssNeqboLdBOpoAEXQTc'
-var meetingNumber = '95160050210'
+var meetingNumber = '5RAXLhT5R9KLXtSsF5y9Pw'
 var role = 1
 var disablePreview = 'true'
-var leaveUrl = 'https://sekelly.github.io/vanilla'
-var userName = 'ClientView'
+var leaveUrl = 'https://zoom.us'
+var userName = 'apipartner'
 var userEmail = 'client@kelkel.com'
 var passWord = '123'
 // pass in the registrant's token if your meeting or webinar requires registration. More info here:
